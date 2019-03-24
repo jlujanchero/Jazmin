@@ -4,4 +4,4 @@ create table clientes (
 	dni char(8)
 )
 
-
+-- autor: Jazmin Lujan
